@@ -1,3 +1,7 @@
+Student Details:
+name : Chethan Vivek Sai Sundar Sukkireddi
+Niat Id: N26V01A0337
+Section: 5
 # NeuraLabs — Modern AI Technology Single-Page Website
 
 A clean, responsive, and futuristic single-page landing webpage built for a fictional artificial intelligence enterprise called **NeuraLabs**. Engineered strictly using **HTML5** and **CSS3** (Flexbox and Media Queries) without any external frameworks or JavaScript, adhering to modern web design standards and academic evaluation criteria.
